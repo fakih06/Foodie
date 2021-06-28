@@ -1,0 +1,9 @@
+D:\Telkom University\SE-43-03\Kelas\Semester 4\Kelas\Konstruksi Perangkat Lunak\TUBES\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\bin\Debug\Foodie_Tubes_KPL.exe.config
+D:\Telkom University\SE-43-03\Kelas\Semester 4\Kelas\Konstruksi Perangkat Lunak\TUBES\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\bin\Debug\Foodie_Tubes_KPL.exe
+D:\Telkom University\SE-43-03\Kelas\Semester 4\Kelas\Konstruksi Perangkat Lunak\TUBES\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\bin\Debug\Foodie_Tubes_KPL.pdb
+D:\Telkom University\SE-43-03\Kelas\Semester 4\Kelas\Konstruksi Perangkat Lunak\TUBES\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.csprojAssemblyReference.cache
+D:\Telkom University\SE-43-03\Kelas\Semester 4\Kelas\Konstruksi Perangkat Lunak\TUBES\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.Properties.Resources.resources
+D:\Telkom University\SE-43-03\Kelas\Semester 4\Kelas\Konstruksi Perangkat Lunak\TUBES\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.csproj.GenerateResource.cache
+D:\Telkom University\SE-43-03\Kelas\Semester 4\Kelas\Konstruksi Perangkat Lunak\TUBES\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.csproj.CoreCompileInputs.cache
+D:\Telkom University\SE-43-03\Kelas\Semester 4\Kelas\Konstruksi Perangkat Lunak\TUBES\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.exe
+D:\Telkom University\SE-43-03\Kelas\Semester 4\Kelas\Konstruksi Perangkat Lunak\TUBES\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.pdb
