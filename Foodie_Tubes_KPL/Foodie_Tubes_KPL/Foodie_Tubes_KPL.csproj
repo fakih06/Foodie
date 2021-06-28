@@ -52,6 +52,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Success_Foodie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Success_Foodie.Designer.cs">
+      <DependentUpon>Success_Foodie.cs</DependentUpon>
+    </Compile>
     <Compile Include="Login_Foodie.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +66,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Success_Foodie.resx">
+      <DependentUpon>Success_Foodie.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login_Foodie.resx">
       <DependentUpon>Login_Foodie.cs</DependentUpon>
     </EmbeddedResource>
@@ -91,6 +100,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Profile.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undraw_Checklist__re_2w7v 1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -79,5 +79,15 @@ namespace Foodie_Tubes_KPL.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap undraw_Checklist__re_2w7v_1 {
+            get {
+                object obj = ResourceManager.GetObject("undraw_Checklist__re_2w7v 1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
