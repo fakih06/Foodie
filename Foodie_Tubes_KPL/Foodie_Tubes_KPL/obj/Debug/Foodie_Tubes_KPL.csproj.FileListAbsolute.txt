@@ -1,0 +1,11 @@
+C:\Users\ASUS TUF GAMING\Documents\GitHub\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\bin\Debug\Foodie_Tubes_KPL.exe.config
+C:\Users\ASUS TUF GAMING\Documents\GitHub\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\bin\Debug\Foodie_Tubes_KPL.exe
+C:\Users\ASUS TUF GAMING\Documents\GitHub\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\bin\Debug\Foodie_Tubes_KPL.pdb
+C:\Users\ASUS TUF GAMING\Documents\GitHub\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.Form1.resources
+C:\Users\ASUS TUF GAMING\Documents\GitHub\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.Properties.Resources.resources
+C:\Users\ASUS TUF GAMING\Documents\GitHub\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.csproj.GenerateResource.cache
+C:\Users\ASUS TUF GAMING\Documents\GitHub\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF GAMING\Documents\GitHub\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.exe
+C:\Users\ASUS TUF GAMING\Documents\GitHub\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\obj\Debug\Foodie_Tubes_KPL.pdb
+C:\Users\ASUS TUF GAMING\Documents\GitHub\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\obj\Debug\Tubes_KPL_Foodie.HomeForms.resources
+C:\Users\ASUS TUF GAMING\Documents\GitHub\Foodie\Foodie_Tubes_KPL\Foodie_Tubes_KPL\obj\Debug\Tubes_KPL_Foodie.MorningCostumControl.resources
